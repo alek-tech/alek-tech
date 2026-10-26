@@ -4,6 +4,6 @@ I run **[Alekus programiranje s.p.](https://personal-website-five-beta-20.vercel
 
 - 📱 **[Delovne ure](https://delovneure.si)** — work-hours tracking app ([Google Play](https://play.google.com/store/apps/details?id=com.workhours.mobile))
 - 🎥 **[ZoomToVimeo](https://github.com/alek-tech/ZoomToVimeo)** — moves Zoom cloud recordings to Vimeo
-- 🌐 **[Website](https://personal-website-five-beta-20.vercel.app)** — my company and personal site
+- 🌐 **[Website](https://personal-website-five-beta-20.vercel.app)** — company and personal website
 
 **Stack:** Python · Dart/Flutter · Node.js
